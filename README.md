@@ -9,17 +9,15 @@
 ### 적용 기술
 
 <div>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" />
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=Apache Kafka&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white"/>
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=for-the-badge"><br/>
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logoColor=white"/>
 </div>
 
 > _**Other : JWT, JPA, Load Balancer(Eureka), Gateway(Spring Cloud Gateway), REST-API, JSP, Spring Cloud Config**_
@@ -31,17 +29,16 @@
 ## Summary
 
 ### API Swagger
-UserService : http://34.64.214.27:12000/swagger-ui
+UserService
 </br>
-SellerService : http://34.64.214.27:13000/swagger-ui
+SellerService
 </br>
-OrderService : http://34.64.214.27:11000/swagger-ui
+OrderService
 </br>
-ItemService : http://34.64.214.27:10000/swagger-ui
+ItemService
 </br>
 
 ### Zipkin
-http://34.64.214.27:9411
 
 ![Summary](https://user-images.githubusercontent.com/63443366/175762264-d15dfadd-e097-4dd9-8294-c86e65a15691.png)
 
